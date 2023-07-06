@@ -2,7 +2,7 @@
 The data used for this project is fetched from Internet.
 
 # Objective
-The job is to predict the sales price for each house. This is a supervised regression problem.
+The model should learn from this data and be able to predict the median housing price in any district, given all the other metrics.
 
 # Methods Used
 1. Data Analysis
